@@ -16,6 +16,8 @@ This is an image classification problem on Kaggle Datasets.The dataset contains 
 
 ![alt text](https://github.com/pshar33/Chest-X-Ray-Classification-CNN-/blob/master/Plots.png)
 
+This is the comparative plots of Normal and Pneumonia chest X Rays. 
+
 
 ## Breakdown of the code:
 
@@ -38,4 +40,4 @@ This is an image classification problem on Kaggle Datasets.The dataset contains 
 ## Results:
 
 - The accuracy for the test dataset came out to be  . 
-- The link to my kaggle kernel is   which is a jupyter notebook.Please feel free to leave a feedback or comment.
+- The link to my kaggle kernel is   which is a jupyter notebook.Please feel free to leave a feedback or comment and upvote on KAGGLE if you found it to be helpful !!
