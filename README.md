@@ -14,7 +14,7 @@
 
 This is an image classification problem on Kaggle Datasets.The dataset contains 3 folders -train, validation and test
 
-
+![alt text](https://github.com/pshar33/Chest-X-Ray-Classification-CNN-/blob/master/Plots.png)
 
 
 ## Breakdown of the code:
