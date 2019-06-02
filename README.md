@@ -29,7 +29,7 @@ This is the comparative plots of Normal and Pneumonia chest X Rays.
 4. Creating and Training the Model: Create a cnn model in KERAS.
 5. Evaluation: Display the plots from the training history.
 6. Prediction: Run predictions with model.predict
-7. Conclusion: Comparing original labels with predicted labels and calculating confusion matrix
+7. Conclusion: Comparing original labels with predicted labels and calculating recall score.
 
 ## Accuracy and loss plots
 
