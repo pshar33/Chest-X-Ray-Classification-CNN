@@ -35,7 +35,7 @@ This is the comparative plots of Normal and Pneumonia chest X Rays.
 
 
 ![alt text](https://github.com/pshar33/Chest-X-Ray-Classification-CNN-/blob/master/loss%2Caccuracy%20plots.png)
-
+![alt text](https://github.com/pshar33/Chest-X-Ray-Classification-CNN-/blob/master/loss%2Caccuracy%20plots.png)
 
 
 ## Results:
