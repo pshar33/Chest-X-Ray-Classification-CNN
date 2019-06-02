@@ -34,10 +34,11 @@ This is the comparative plots of Normal and Pneumonia chest X Rays.
 ## Accuracy and loss plots
 
 
+![alt text]()
 
 
 
 ## Results:
 
-- The accuracy for the test dataset came out to be  . 
+- The accuracy for the test dataset came out to be > 85% . 
 - The link to my kaggle kernel is   which is a jupyter notebook.Please feel free to leave a feedback or comment and upvote on KAGGLE if you found it to be helpful !!
