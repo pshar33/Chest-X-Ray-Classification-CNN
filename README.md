@@ -42,4 +42,4 @@ This is the comparative plots of Normal and Pneumonia chest X Rays.
 
 - The accuracy for the test dataset came out to be > 85% .
 - The accuracy for the validation dataset came out to be > 93 % .
-- The link to my kaggle kernel is https://www.kaggle.com/parthsharma5795/chest-x-ray-classification-cnn-keras  which is a jupyter notebook.Please feel free to leave a feedback or comment and upvote on KAGGLE if you found it to be helpful !!
+- The link to my kaggle kernel is https://www.kaggle.com/parthsharma5795/chest-x-ray-classification-cnn-keras  which is a jupyter notebook.**Please upvote and feel free to leave a feedback or comment on my kernel if you found it to be helpful !!**
